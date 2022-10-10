@@ -40,3 +40,35 @@ catch
 {
     Console.WriteLine("\n Невозможно транспонировать массив. \n");
 }
+
+
+int UserInput(string input)
+{
+    Console.Write(input);
+    int output = int.Parse(Console.ReadLine());
+    return output;
+}
+
+void CreateArray(int[,] array)
+{
+    Console.WriteLine("\n Массив чисел: \n\t");
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            array[i, j] = new Random().Next(arrayRangeMin, arrayRangeMax);
+        }
+    }
+}
+
+void WriteArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write("{0, 5}", array[i, j]);
+        }
+        Console.WriteLine();
+    }
+}

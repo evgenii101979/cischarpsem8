@@ -3,3 +3,13 @@ D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.GeneratedMSBui
 D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.AssemblyInfoInputs.cache
 D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.AssemblyInfo.cs
 D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.csproj.CoreCompileInputs.cache
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\bin\Debug\net6.0\sem8kr1.exe
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\bin\Debug\net6.0\sem8kr1.deps.json
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\bin\Debug\net6.0\sem8kr1.runtimeconfig.json
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\bin\Debug\net6.0\sem8kr1.dll
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\bin\Debug\net6.0\sem8kr1.pdb
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.dll
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\refint\sem8kr1.dll
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.pdb
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\sem8kr1.genruntimeconfig.cache
+D:\учеба 2\WSC\cischarpsem8\sem8kr1\obj\Debug\net6.0\ref\sem8kr1.dll
